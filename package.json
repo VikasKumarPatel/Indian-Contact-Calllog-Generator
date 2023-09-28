@@ -1,0 +1,18 @@
+{
+  "name": "indian-contact-call-log-generator",
+  "version": "1.0.0",
+  "description": "It generate the contact numbers starting from 6,7,8 and 9 for indian number. then it generate call log for that contact for given date range (daily 8-12 with incoming, outgoing and missed call).\nYou can import directly contact from generated vcf file, for call log you can use SMS Backup & Restore app in playstore\nValidate generated data: https://www.synctech.com.au/sms-backup-restore/view-backup/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "sqlite3": "^5.1.6",
+    "vcards-js": "^2.10.0",
+    "xmlbuilder": "^15.1.1"
+  }
+}
