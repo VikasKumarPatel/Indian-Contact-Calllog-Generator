@@ -1,6 +1,6 @@
 # Indian Contact Call Log Generator
 
-![Test Status](https://github.com/VikasKumarPatel/Indian-Contact-Calllog-Generator/actions/workflows/tests.yml/badge.svg?branch=master)
+![Test Status](https://github.com/VikasKumarPatel/Indian-Contact-Calllog-Generator/actions/workflows/main.yml/badge.svg?branch=master)
 ![Node version](https://img.shields.io/badge/node-18.x-brightgreen)
 ![GitHub Repo stars](https://img.shields.io/github/stars/VikasKumarPatel/Indian-Contact-Calllog-Generator)
 ![GitHub forks](https://img.shields.io/github/forks/VikasKumarPatel/Indian-Contact-Calllog-Generator)
