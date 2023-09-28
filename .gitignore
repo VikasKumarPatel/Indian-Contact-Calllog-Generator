@@ -1,3 +1,4 @@
 *.vcf
 *.xml
 node_modules
+*.sqlite3
